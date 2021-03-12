@@ -28,7 +28,6 @@
   "mainActionMedicButton": "Začněte zadáním údajů",
   "mainHelpPerson": "Zvolte si místo, čas a službu. S QR kódem v mobilu nebo na papíře se prokažte na odběrném / testovacím místě. Nečekáte ve frontách před testem, ani na výsledek. Pošleme Vám ho zdarma přes SMS a e-mailem. <b>Elektronický certifikát</b> e-mailem i ke stažení na stránce.",
   "mainDoctor": "Chceme zaregistrovat odběrné místo",
-
   "mainDoctorStep1": "Zadejte údaje provozovatele",
   "mainDoctorStep2": "Přidejte odběrné místo",
   "mainDoctorStep3": "Naplánujte služby pracovníkům",
@@ -68,7 +67,6 @@
   "AdminListOfProvidedServicesOnTheSpotPrice": "Standardní cena",
   "AdminListOfProvidedServicesOnTheSpotCurrency": "Měna",
   "AdminListOfProvidedServicesOnTheSpotAction": "Akce",
-
   "navBarTester": "Tester",
   "navBarRegVisitor": "Zaregistrovaný klient",
   "navBarNewVisitor": "Neohlášený klient",
@@ -131,7 +129,6 @@
   "resultsRemoveRegistration": "Zrušit registraci",
   "resultsRegistrationRemoved": "Registrace byla vymazaná",
   "resultsSent": "Výsledek byl odeslaný",
-
   "chPassTitle": "Změna hesla",
   "chPassOldPassword": "Staré heslo",
   "chPassNewPassword": "Nové heslo",
@@ -188,13 +185,11 @@
   "selectDayOnlyForInsured": "Tuto službu můžeme poskytnout pouze pojištěncům",
   "selectDaySelectService": "Vybrat",
   "selectDayButtonText": "Dne {description} je aktuálně registrovaných {registrations} osob",
-
   "selectHourTitle": "Kliknutím zvolte hodinu testu (v závorce jsou už obsazená místa)",
   "selectHourYourSelection": "Vybrali jste si: {place}, dne {day}",
   "selectHourQuestion": "Kliknutím zvolte hodinu testu",
   "selectHourHelp": "(počet obsazených míst / celkový počet míst)",
   "selectHourButtonText": "Mezi {description} je aktuálně registrovaných {registrations} osob",
-
   "selectMinuteTitle": "Vyberte si přesný čas testu",
   "selectMinuteYourSelection": "Vybrali jste si: {place}, dne {day} mezi {hour}",
   "selectMinuteQuestion": "Vyberte si přesný čas testování",
@@ -309,7 +304,6 @@
   "registrationFormInsuranceForeigner": "Cizinec",
   "registrationLimitReached": "Pro tento časový úsek byl dosažený limit registrací. Prosím využite jiný časový úsek nebo počkejte na navýšení kapacity. Děkujeme",
   "registrationSchoolRequiredText": "Jsem zákonným zástupcem žáka, který se zúčastňuje prezenční výuky ve škole, nebo jeho pracovníkem.",
-
   "regDoneTitle": "Úspešně jste si rezervovali termín testu.",
   "regDoneHelp1": "Předložte tento QR kód, nebo devítimístný číselný kód na odběrném místě.",
   "regDoneHelp2": "V SMS jsme Vám poslali potvrzení o registraci na test spolu s registračním kódem. Pokud jste zadali e-mail adresu, poslali jsme Vám pokyny i e-mailem. Pokud chcete svoje testování urychlit, ukažte tento QR kód při odběru na testovacím místě (stačí ho ukázat na obrazovce mobilu, nebo vytištěný na papíře).",
@@ -407,7 +401,6 @@
   "FaqBaA6": "Nebudou. Obyvatele a obyvatelky prosíme o ohleduplnost vůči těmto skupinám během testování a ve frontách, které se mohou tvořit u některých odběrných míst.",
   "FaqBaQ7": "Bude někde drive-through odběr? ",
   "FaqBaA7": "Drive-through odběry plánuje např. Ružinov, bratislavské letiště či Karlova Ves na parkovišti Líščie údolie a pod Mostem Lafranconi.",
-
   "ppTitle": "Registrace provozovatele odběrných míst",
   "ppAgreement": "Jsem oprávněný zastupovat provozovatele pro registraci do systému rýchlejšie.sk . Souhlasím se zpracovaním osobních údajů a dalších údajů provozovatele a souhlasím se smluvními podmínkami služby.",
   "ppTerms": "Obchodní podmínky",
