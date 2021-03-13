@@ -1,0 +1,10 @@
+{
+  "VUE_CONFIG_APP_API": "https://data.rychlejsie.sk/",
+  "DEDICATED_PLACE":false,
+  "MAP_LAT":48.5,
+  "MAP_LNG":19.5,
+  "MAP_ZOOM":8,
+  "CSS":"",
+  "SHOW_DANGER":{"sk":"Pozor, toto je demo!","cs":"Pozor, tohle je demo!","en":"This is demo!"},
+  "LOGO":"./images/logos/Rychlejsie_sk_logo_biele.png"
+}
